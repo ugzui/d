@@ -1,2 +1,2 @@
-flask==2.3.3
-playwright==1.42.0
+flask
+playwright
